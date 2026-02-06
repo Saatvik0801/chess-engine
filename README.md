@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chess Engine in Java
 
 ## Overview
@@ -21,3 +22,6 @@ java src/Main
 - Add full rule enforcement
 - Add AI
 - Add GUI
+=======
+# chess-engine
+>>>>>>> 0352735d729faf265e5ebfeb0b6500c465c1a614
