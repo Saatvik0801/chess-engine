@@ -5,8 +5,8 @@ import pieces.knight;
 import pieces.piece;
 
 public class Game {
-    private Board board;
-    private MoveValidator validator;
+    private final Board board;
+    public MoveValidator validator;
 
     public Game() {
         board = new Board();

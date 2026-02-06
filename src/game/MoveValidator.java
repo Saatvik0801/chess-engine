@@ -4,7 +4,7 @@ import board.Board;
 import pieces.piece;
 
 public class MoveValidator {
-    private Board board;
+    private final Board board;
 
     public MoveValidator(Board board) {
         this.board = board;

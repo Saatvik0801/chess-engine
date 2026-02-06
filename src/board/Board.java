@@ -3,7 +3,7 @@ package board;
 import pieces.piece;
 
 public class Board {
-    private piece[][] board = new piece[8][8];
+    private final piece[][] board = new piece[8][8];
 
     public piece getPiece(int r, int c) {
         return board[r][c];
